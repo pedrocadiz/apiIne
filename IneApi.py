@@ -7,6 +7,8 @@ import statistics as sta
 import numpy as np
 from matplotlib.dates import date2num 
 
+# Este archivo es igual que classIne.py pero en formato script
+
 # Introducir datos de la tabla
 codigo = "CP335"
 num_datos = 400
